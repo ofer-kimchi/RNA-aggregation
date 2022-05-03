@@ -5,4 +5,6 @@ computational_enumeration.py exactly calculates the partition functions for a gi
 
 figures_for_paper_github.py loads the calculated partition functions and makes the plots shown in the paper.
 
+ways_to_connect_m/ gives stored results necessary to correct the partition functions to calculate only connected clusters
+
 Any questions or correspondence can be addressed to okimchi@princeton.edu.
